@@ -1,6 +1,6 @@
 $(document).ready(function(){
   $.ajax({
-    url: urt, 
+    url: urp, 
     dataType: 'text', 
     success: function(data) { 
       $("#head").html(data);
