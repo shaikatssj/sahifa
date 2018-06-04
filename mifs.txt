@@ -1,0 +1,136 @@
+<script>
+
+var titiles="::THEME_NAME::";
+
+</script>
+
+<div id="main-content" class="container">
+
+<div class="content">
+
+::MESSAGES::
+
+<div id="comments">
+
+<div id="respond" class="comment-respond">
+
+<h3 id="reply-title" class="comment-reply-title">Leave a Reply</h3> 
+
+::REPLY_AREA::
+
+</div>
+
+</div>
+
+</div>
+
+<aside id="sidebar">
+
+<div id="facebook-widget-4" class="widget facebook-widget"><div class="widget-top"><h4 style="color:grey">Stechno</h4><div class="stripe-line"></div></div>
+
+<div class="widget-container"> <div class="facebook-box">
+
+<a href="http://stechno.ml"><img src="http://funkyimg.com/i/2Gaf9.png" style="max-width:100%" class="attachment-tie-medium size-tie-medium" /></a>
+
+</div>
+
+</div></div>
+
+<div id="text-3" class="widget widget_text">
+
+<div class="widget-top"><h4 style="color:grey">Stechno</h4><div class="stripe-line"></div></div>
+
+<div class="widget-container"> <div class="textwidget"><p><a href="http://stechno.ml"><img src="http://funkyimg.com/i/2Gaj2.png" style="max-width:100%" class="attachment-tie-medium size-tie-medium" /></a></p>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="categories-2" class="widget widget_categories"><div class="widget-top"><h4 style="color:grey">Categories</h4><div class="stripe-line"></div></div>
+
+<div class="widget-container"> <ul>
+
+<li class="cat-item cat-item-16"><a href="forum2_:user-prvar-20:.xhtml" title="Bangla Cartoon">Bangla Cartoon</a>
+
+</li>
+
+<li class="cat-item cat-item-6"><a href="forum2_:user-prvar-21:.xhtml" title="Bangla Movie Mp3">Bangla Movie Mp3</a>
+
+</li>
+
+<li class="cat-item cat-item-42"><a href="forum2_:user-prvar-22:.xhtml" title="Bangla Movies">Bangla Movies</a>
+
+</li>
+
+<li class="cat-item cat-item-13"><a href="forum2_:user-prvar-23:.xhtml" title="Bangla Music Videos">Bangla Album</a>
+
+</li>
+
+<li class="cat-item cat-item-9"><a href="forum2_:user-prvar-24:.xhtml" title="Bangla Natok">Bangla Natok</a>
+
+</li>
+
+<li class="cat-item cat-item-64"><a href="forum2_:user-prvar-25:.xhtml" title="Bangla TV Shows">Bangla TV Shows</a>
+
+</li>
+
+<li class="cat-item cat-item-43"><a href="forum2_:user-prvar-26:.xhtml" title="English Movies">Bollywood Movies</a>
+
+</li>
+
+<li class="cat-item cat-item-44"><a href="forum2_:user-prvar-27:.xhtml" title="Hindi Dubbed Movies">Dubbed Movies</a>
+
+</li>
+
+<li class="cat-item cat-item-25"><a href="forum2_:user-prvar-28:.xhtml" title="Hindi Movie Mp3">Bollywood Movie Song</a>
+
+</li>
+
+<li class="cat-item cat-item-45"><a href="forum2_:user-prvar-29:.xhtml" title="Hindi Movies">Kolkata Movie Song</a>
+
+</li>
+
+<li class="cat-item cat-item-30"><a href="forum2_:user-prvar-30:.xhtml" title="Hindi Music Videos">Kolkata Tv Shows</a>
+
+</li>
+
+<li class="cat-item cat-item-31"><a href="forum2_:user-prvar-31:.xhtml" title="Hindi Remix Videos">WWE Tv Programe</a>
+
+</li>
+
+<li class="cat-item cat-item-27"><a href="forum2_:user-prvar-32:.xhtml" title="Hindi Single Track">Sport Videos</a>
+
+</li>
+
+<li class="cat-item cat-item-66"><a href="forum2_:user-prvar-33:.xhtml">Uncategorized</a>
+
+</li>
+
+<li class="cat-item cat-item-28"><a href="forum2_:user-prvar-34:.xhtml">Kolkata Movies</a>
+
+</li>
+
+<li class="cat-item cat-item-22"><a href="forum2_:user-prvar-35:.xhtml" title="Hindi Zone">Hollywood Movies</a>
+
+</li>
+
+<li class="cat-item cat-item-46"><a href="forum2_:user-prvar-36:.xhtml" title="Kannada Movies">Nut-Boltu Cartoon [Sony AATH}</a>
+
+</li>
+
+<li class="cat-item cat-item-34"><a href="forum2_:user-prvar-37:.xhtml" title="Kolkata Album Mp3">Gopalvar Cartoon [SONY AATH]</a>
+
+</li>
+
+<li class="cat-item cat-item-35"><a href="forum2_:user-prvar-38:.xhtml" title="Kolkata Movie Mp3">Ponchotontrer Montro [Sony AATH]</a>
+
+</li>
+
+</ul>
+
+</div></div></aside> <div class="clear"></div>
+
+</div>
+
