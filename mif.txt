@@ -1,0 +1,27 @@
+<article class="post-listing post-14724 post type-post status-publish format-standard has-post-thumbnail hentry category-bangla-natok category-bangla-zone">
+
+<div class="post-inner">
+
+<h1 class="name post-title entry-title" itemprop="itemReviewed"  itemtype="http://schema.org/Thing"><span itemprop="name"><script>if("::msg_id::"=="1") {document.write(titiles);} else {document.write("Re:#::msg_id::");}</script></span></h1>
+
+<p class="post-meta">
+
+<span>Posted by: ::tuser:: </span>
+
+<span>::date::</span>
+
+<span>in <span id="ssj">updates,</span></span>
+
+</p>
+
+<div class="clear"></div>
+
+<div class="entry">
+
+<div name="dpro" class="eachmsg"><gomu>::msg::</gomu></div>
+
+</div>
+
+</article>
+
+<div id="work" name="work">similar::msg_id::</div>
