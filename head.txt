@@ -1,0 +1,114 @@
+<div><header id="theme-header" class="theme-header">
+<div class="top-nav">
+<div class="menu-alert">You can build site in stechno.ml</div>
+<div class="search-block">
+<form method="get" id="searchform-header" action="/">
+<button class="search-button" type="submit" value="Search"></button>
+<input type="text" id="s" name="s" value="Search..." onfocus="if (this.value == 'Search...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search...';}"/>
+</form>
+</div>
+</div>
+<div class="header-content">
+<div class="logo" style="margin-top:15px">
+<h1> <a href=":url-site-0:">
+<img src="https://i.imgur.com/xT3MMqY.png" width="250" height="90"/><strong>Stechno.ml</strong>
+</a>
+</h1> </div>
+<div class="clear"></div>
+</div>
+<nav id="main-nav">
+<div class="container">
+<div class="main-menu"><ul id="menu-bdmusic23-site" class="menu"><li id="menu-item-76" class="menu-item  menu-item-type-custom  menu-item-object-custom  current-menu-item  current_page_item  menu-item-home"><a href="/index.xhtml">Home</a></li>
+
+
+<li id="menu-item-73" class="menu-item  menu-item-type-taxonomy  menu-item-object-category  menu-item-has-children parent-list"><a href="#">Bangla Zone<span class="sub-indicator"></span></a>
+<ul class="sub-menu">
+<li id="menu-item-56" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="forum2_:user-prvar-21:.xhtml">Bangla Movie Mp3</a></li>
+<li id="menu-item-57" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="forum2_:user-prvar-23:.xhtml">Bangla Album</a></li>
+<li id="menu-item-58" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="forum2_113260448.xhtml">Bangla Natok</a></li>
+
+</ul> 
+</li>
+
+<li id="menu-item-22" class="menu-item  menu-item-type-taxonomy  menu-item-object-category  menu-item-has-children parent-list"><a href="https://bdmusic23.site/category/cartoon-zone/">Cartoon Zone <span class="sub-indicator"></span></a>
+<ul class="sub-menu">
+<li id="menu-item-23" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="forum2_:user-prvar-20:.xhtml">Bangla Cartoon</a></li>
+
+<li id="menu-item-23" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="forum2_:user-prvar-25:.xhtml">Nut-Boltu Cartoon</a></li>
+
+<li id="menu-item-23" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="forum2_:user-prvar-26:.xhtml">Gopal-Var Cartoon</a></li>
+
+<li id="menu-item-23" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="forum2_:user-prvar-27:.xhtml">Ponchotontrer Montro Cartoon</a></li>
+</ul> 
+</li>
+
+
+<li id="menu-item-73" class="menu-item  menu-item-type-taxonomy  menu-item-object-category  menu-item-has-children parent-list"><a href="#">Kolkata Zone<span class="sub-indicator"></span></a>
+<ul class="sub-menu">
+<li id="menu-item-56" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="forum2_:user-prvar-32:.xhtml">Kolkata Movie Video Song</a></li>
+</ul> 
+</li>
+
+
+<li id="menu-item-73" class="menu-item  menu-item-type-taxonomy  menu-item-object-category  menu-item-has-children parent-list"><a href="#">Movie Zone<span class="sub-indicator"></span></a>
+<ul class="sub-menu">
+<li id="menu-item-56" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="forum2_:user-prvar-22:.xhtml">Bangla Movies</a></li>
+<li id="menu-item-56" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="forum2_:user-prvar-28:.xhtml">Bollywood Movies</a></li>
+<li id="menu-item-56" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="forum2_:user-prvar-29:.xhtml">Hollywood Movies</a></li>
+<li id="menu-item-56" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="forum2_:user-prvar-30:.xhtml">Kolkata Movies</a></li>
+<li id="menu-item-56" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="forum2_:user-prvar-33:.xhtml">Dubbed Movie</a></li>
+</ul> 
+</li>
+
+
+<li id="menu-item-73" class="menu-item  menu-item-type-taxonomy  menu-item-object-category  menu-item-has-children parent-list"><a href="#">Others Zone<span class="sub-indicator"></span></a>
+<ul class="sub-menu">
+<li id="menu-item-56" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="forum2_:user-prvar-36:.xhtml">Sport Videos</a></li>
+<li id="menu-item-56" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="forum2_:user-prvar-37:.xhtml">Uncategoryzied</a></li></ul>
+</li>
+
+
+
+<li id="menu-item-73" class="menu-item  menu-item-type-taxonomy  menu-item-object-category  menu-item-has-children parent-list"><a href="#">Tv Shows<span class="sub-indicator"></span></a>
+<ul class="sub-menu">
+<li id="menu-item-56" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="forum2_:user-prvar-24:.xhtml">Bangla Tv Shows</a></li>
+<li id="menu-item-56" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="forum2_:user-prvar-34:.xhtml">Kolkata Tv Shows</a></li></ul>
+</li>
+
+
+<li id="menu-item-73" class="menu-item  menu-item-type-taxonomy  menu-item-object-category  menu-item-has-children parent-list"><a href="#">C-panel<span class="sub-indicator"></span></a>
+<ul class="sub-menu">
+<li id="menu-item-56" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="/login_0.xhtml">Login</a></li>
+<li id="menu-item-56" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="/registration_site.xhtml">Registration</a></li></ul>
+</li>
+
+<li id="menu-item-144" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="#"></a></li>
+</ul><form action=""><select onchange="this.options[this.selectedIndex].value &amp;&amp; (window.location = this.options[this.selectedIndex].value);" id="main-menu-mob"><option value="#">Go to...</option>
+<option name="cm" id="cm" value=" /index.xhtml">Home</option>
+<option name="cm" id="cm" value=" forum2_:user-prvar-20:.xhtml">Bangla Cartoon</option>
+<option name="cm" id="cm" value=" forum2_:user-prvar-21:.xhtml">Bangla Movie Mp3</option>
+<option name="cm" id="cm" value=" forum2_:user-prvar-22:.xhtml">Bangla Movies</option>
+<option name="cm" id="cm" value=" forum2_:user-prvar-23:.xhtml">Bangla Album</option>
+<option name="cm" id="cm" value=" forum2_:user-prvar-24:.xhtml">Bangla Tv Shows</option>
+<option name="cm" id="cm" value=" forum2_:user-prvar-25:.xhtml">Nut-Boltu Cartoon</option>
+<option name="cm" id="cm" value=" forum2_:user-prvar-26:.xhtml">Gopal-Var Cartoon</option>
+<option name="cm" id="cm" value=" forum2_:user-prvar-27:.xhtml">Ponchotontrer Montro Cartoon</option>
+<option name="cm" id="cm" value=" forum2_:user-prvar-28:.xhtml">Bollywood Movies</option>
+<option name="cm" id="cm" value=" forum2_:user-prvar-29:.xhtml">Hollywood Movies</option>
+<option name="cm" id="cm" value=" forum2_:user-prvar-30:.xhtml">Kolkata Movies</option>
+<option name="cm" id="cm" value=" forum2_:user-prvar-31:.xhtml">Bollywood Movie Songs</option>
+<option name="cm" id="cm" value=" forum2_:user-prvar-32:.xhtml">Kolkata Movie Song</option>
+<option name="cm" id="cm" value=" forum2_:user-prvar-33:.xhtml">Dubbed Movie</option>
+<option name="cm" id="cm" value=" forum2_:user-prvar-34:.xhtml">Kolkata Tv shows</option>
+<option name="cm" id="cm" value=" forum2_:user-prvar-35:.xhtml">WWE Program Shows</option>
+<option name="cm" id="cm" value=" forum2_:user-prvar-36:.xhtml">Sport Videos</option>
+<option name="cm" id="cm" value=" forum2_:user-prvar-37:.xhtml">Uncategoryzied</option>
+<option name="cm" id="cm" value=" forum2_:user-prvar-38:.xhtml">Bangla Natok</option>
+<option name="cm" id="cm" value=" /login_0.xhtml">Login</option>
+<option name="cm" id="cm" value=" /registration_site.xhtml">Registration</option>
+
+
+</select></form></div> <a href="#" original-title="Random Article"></a>
+</div>
+</nav>
+</header></div>
